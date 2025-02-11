@@ -1,5 +1,5 @@
 ---
-title: "Backjoon BFS/DFS 2667"
+title: "Baekjoon BFS/DFS 2667"
 date: 2025-02-11 10:00:00 +0900
 categories: [CodingTest, Algorithm]
 tags: [python, DFS, BFS, Algorithm]
