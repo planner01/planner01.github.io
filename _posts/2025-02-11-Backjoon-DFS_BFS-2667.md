@@ -1,8 +1,8 @@
 ---
 title: "Backjoon BFS/DFS 2667"
 date: 2025-02-11 10:00:00 +0900
-categories: [Blog, Tutorial]
-tags: [jekyll, chirpy]
+categories: [Coding Test]
+tags: [python, DFS, BFS]
 ---
 
 ### Coding Test (DFS/BFS)
