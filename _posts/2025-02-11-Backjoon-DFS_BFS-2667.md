@@ -1,7 +1,7 @@
 ---
 title: "Backjoon BFS/DFS 2667"
 date: 2025-02-11 10:00:00 +0900
-categories: [Coding Test]
+categories: [CodingTest]
 tags: [python, DFS, BFS]
 ---
 
