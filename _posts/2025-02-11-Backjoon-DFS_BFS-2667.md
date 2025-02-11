@@ -9,7 +9,7 @@ tags: [python, DFS, BFS]
 [백준 단지번호 붙이기, 2667, 실버 1](https://www.acmicpc.net/problem/2667)
 
 - [x] 문제 풀이 완료
-- [ ] 이해 완료
+- [x] 이해 완료
 
 <img width="1061" alt="Image" src="https://github.com/user-attachments/assets/dee49d0c-e580-48c7-a59a-aeecb8e75d97" />
 
@@ -23,7 +23,8 @@ tags: [python, DFS, BFS]
 0100000
 0111110
 0111000
-
+```
+```python
 # 출력
 3
 7

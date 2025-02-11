@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2025-02-11 10:00:00 +0900
-categories: [Blog, Tutorial]
+categories: [Coding Test]
 tags: [jekyll, chirpy]
 ---
 
