@@ -5,7 +5,7 @@ categories: [CodingTest, Algorithm]
 tags: [python, Two Pointer, Algorithm]
 ---
 
-### Coding Test (DP)
+### Coding Test (Two Pointer)
 [백준 먹을 것인가 먹힐 것인가, 7795, 실버 3](https://www.acmicpc.net/problem/7795)
 
 - [x] 문제 풀이 완료
