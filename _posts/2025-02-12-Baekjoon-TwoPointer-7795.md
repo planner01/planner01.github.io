@@ -1,5 +1,5 @@
 ---
-title: "Baekjoon DP 2748"
+title: "Baekjoon DP 7795"
 date: 2025-02-11 10:00:00 +0900
 categories: [CodingTest, Algorithm]
 tags: [python, Two Pointer, Algorithm]
